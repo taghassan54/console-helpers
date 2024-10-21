@@ -1,5 +1,5 @@
 {
-    "name": "tomatophp/console-helpers",
+    "name": "taghassan54/console-helpers",
     "description": "tons of helper you need for you artisan command line application",
     "license": "MIT",
     "keywords": [
@@ -24,7 +24,7 @@
     },
     "authors": [
         {
-            "name": "Fady Mondy",
+            "name": "Fady Mondy @ forked by me",
             "email": "EngFadyMondy@gmail.com"
         }
     ],
